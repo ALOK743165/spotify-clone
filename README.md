@@ -28,6 +28,5 @@ You will also see any lint errors in the console.
 3. Node.js
 
 ## images
-![SignUp](/img/login.png)
-Format: ![Alt Text](url)
+![SignUp](https://github.com/AlokSinghKumar/spotify-clone/tree/master/img/login.PNG)
 
