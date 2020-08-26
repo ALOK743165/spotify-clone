@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { DataLayer } from './Datalayer';
-import reducer, { initialState } from './reducer';
+import { DataLayer } from './Datalayer/Datalayer';
+import reducer, { initialState } from './Datalayer/reducer';
 
 ReactDOM.render(
   <React.StrictMode>

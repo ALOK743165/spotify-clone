@@ -36,7 +36,7 @@
     font-size: 12px;
 }
 
-.footer_center {
+.footer__center {
     flex: 0.4;
     padding: 0 100px;
     color: white;
@@ -44,7 +44,14 @@
     align-items: center;
     justify-content: space-between;
     max-width: 300px;
+    margin-top: 10px;
 }
+
+.footer__green:hover .message{
+    visibility: visible;
+    opacity: 1;
+}
+
 
 .footer__icon:hover,
 .footer__green:hover {
